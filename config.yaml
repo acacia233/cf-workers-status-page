@@ -31,7 +31,7 @@ monitors:
     expectStatus: 200
 
   - id: Cutenico-Speedtest
-    name: The Cloudflare Blog
+    name: Custom Speedtest of Ookla
     url: 'https://speed.cutenico.best/'
     method: GET
     expectStatus: 200
